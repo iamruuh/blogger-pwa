@@ -1,8 +1,8 @@
 {
-  "name": "My Blog",
+  "name": "𝗥𝗨𝗨𝗛.™",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "𝗥𝗨𝗨𝗛",
+  "description": "My Personal space to share with loved ones",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "natural",
@@ -10,8 +10,8 @@
   "scope": "https://hello-example.blogspot.com/",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#fff",
-  "theme_color": "#fff",
+  "background_color": "#101010",
+  "theme_color": "#101010",
   "icons": [
     {
       "src": "icons/favicon.ico",
