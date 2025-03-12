@@ -2,13 +2,13 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: '𝗥𝗨𝗨𝗛.™',
+  shortName: '𝗥𝗨𝗨𝗛',
+  description: 'My Personal space to share with loved ones',
   direction: 'auto',
   language: 'en-US',
-  backgroundColor: '#fff',
-  themeColor: '#fff',
+  backgroundColor: '#101010',
+  themeColor: '#101010',
   display: 'standalone',
   orientation: 'natural',
   scope: '/',
@@ -32,9 +32,9 @@ export default {
   pwa: {
     logs: true,
     // OneSignal is not available if you are not using cloudflare workers
-    oneSignalEnabled: false,
+    oneSignalEnabled: true,
     oneSignalConfig: {
-      appId: '********-****-****-****-************',
+      appId: 'b69f7afe-47b8-4c79-9843-ad34de44c816',
       allowLocalhostAsSecureOrigin: true,
     },
   },
